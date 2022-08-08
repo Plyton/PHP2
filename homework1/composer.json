@@ -1,0 +1,19 @@
+{
+    "name": "ruslan/homework1",
+    "description": "blog",
+    "autoload": {
+        "psr-4": {
+            "Ruslan\\Homework1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Plyton",
+            "email": "emenevr@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20",
+        "roave/security-advisories": "dev-latest"
+    }
+}
